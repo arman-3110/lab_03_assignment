@@ -1,7 +1,8 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Flight {
+class Flight
+{
     String flightId;   
     String source;
     String destination;
